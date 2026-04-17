@@ -52,7 +52,9 @@ Interactive dashboard created using Power BI to visualize:
 - Sales trends  
 - Customer segmentation  
 - Product performance  
-- Revenue distribution  
+- Revenue distribution
+  ## Dashboard Preview
+<img width="1498" height="839" alt="image" src="https://github.com/user-attachments/assets/578f4a67-89c3-46b3-9a4a-8a10726c8f9f" />
 
 ---
 
