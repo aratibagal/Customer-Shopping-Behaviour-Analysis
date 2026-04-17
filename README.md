@@ -1,2 +1,65 @@
-# Customer-Shopping-Behaviour-Analysis
-This project focuses on analyzing customer purchasing behavior using a complete data analytics pipeline involving Python, PostgreSQL, and Power BI. The goal is to extract meaningful insights from customer data and support data-driven decision-making.
+# Customer Shopping Behaviour Analysis
+
+## Project Overview
+This project focuses on analyzing customer shopping behavior using Python, SQL, and Power BI. The aim is to understand customer purchasing patterns and generate insights that can help businesses make better decisions.
+
+---
+
+## Objectives
+- Analyze customer purchasing behavior based on different factors  
+- Identify trends in spending and product preferences  
+- Generate insights to improve business strategies  
+
+---
+
+## Tools & Technologies
+- Python (Pandas, SQLAlchemy)  
+- PostgreSQL (pgAdmin)  
+- Power BI  
+- Jupyter Notebook  
+
+---
+
+## Methodology
+- Data cleaning and preprocessing using Python  
+- Handling missing values and formatting data  
+- Feature engineering (age groups, purchase frequency)  
+- Storing data into PostgreSQL database  
+- Performing SQL queries for analysis  
+- Creating dashboard using Power BI  
+
+---
+
+## SQL Analysis
+- Total customers and revenue analysis  
+- Gender-wise and category-wise insights  
+- Discount impact on customer spending  
+- Subscription vs non-subscription analysis  
+- Customer segmentation (New, Returning, Loyal)  
+
+---
+
+## Key Insights
+- Discounts encourage higher spending among customers  
+- Certain categories have higher purchase frequency  
+- Customer spending varies by gender and age group  
+- Loyal customers contribute significantly to revenue  
+
+---
+
+## Dashboard
+Interactive dashboard created using Power BI to visualize:
+- Sales trends  
+- Customer segmentation  
+- Product performance  
+- Revenue distribution  
+
+---
+
+## Conclusion
+This project demonstrates the use of Python, SQL, and Power BI to perform data analysis and generate meaningful insights from customer data.
+
+---
+
+## Author
+Arati Bagal
